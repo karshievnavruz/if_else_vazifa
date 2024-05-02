@@ -1,7 +1,13 @@
 # if_else_vazifa
 1. A soni berilgan. Uni musbat yoki manfiy ekanligini aniqlang.
+# A nummber is given. Detemine whether it is  positive or negative.
+
 2. A soni berilgan. Uni tog’ yoki juft ekanligni aniqlang.
+# A nummber is given. Detemine whether it is even or odd
+
 3. A soni berilgan (1-7). Bu son haftaning qaysi kuni ekanligini aniqlang.
+# nummber A is given (1-7). Detemine whate day of the week this  number is.
+
 4. A soni berilgan. A musbat bolsa unga 2 qoshilsin, agar u manfiy bo’lsa unda 2
 ayrilsin.
 5. A va B sonlari berilgan. Bu A > 3 va B <= 6 shartimizga to’g’ri keladimi yoki
