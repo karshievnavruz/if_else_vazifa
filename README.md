@@ -1,16 +1,16 @@
-## if else homework
+# if else homework
 1. A soni berilgan. Uni musbat yoki manfiy ekanligini aniqlang.
-# A nummber is given. Detemine whether it is  positive or negative.
+## A nummber is given. Detemine whether it is  positive or negative.
 
 2. A soni berilgan. Uni tog’ yoki juft ekanligni aniqlang.
-# A nummber is given. Detemine whether it is even or odd
+## A nummber is given. Detemine whether it is even or odd
 
 3. A soni berilgan (1-7). Bu son haftaning qaysi kuni ekanligini aniqlang.
-# nummber A is given (1-7). Detemine whate day of the week this  number is.
+## nummber A is given (1-7). Detemine whate day of the week this  number is.
 
 4. A soni berilgan. A musbat bolsa unga 2 qoshilsin, agar u manfiy bo’lsa unda 2
 ayrilsin.
-# A nummber is given. if A is positive, add 2 to it , if it is negative , subtract 2 from it 
+## A nummber is given. if A is positive, add 2 to it , if it is negative , subtract 2 from it 
 5. A va B sonlari berilgan. Bu A > 3 va B <= 6 shartimizga to’g’ri keladimi yoki
 yoqmi aniqlang.
 6. A va B sonlari berilgan. Bu A < 2 va B >= -2 shartimizga to’g’ri keladimi yoki
