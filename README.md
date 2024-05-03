@@ -13,11 +13,18 @@ ayrilsin.
 ## A nummber is given. if A is positive, add 2 to it , if it is negative , subtract 2 from it 
 5. A va B sonlari berilgan. Bu A > 3 va B <= 6 shartimizga to’g’ri keladimi yoki
 yoqmi aniqlang.
+## Numbers A and B  are given. Does this satisfi our condition A>3 and B<=6? check if you like.
+
 6. A va B sonlari berilgan. Bu A < 2 va B >= -2 shartimizga to’g’ri keladimi yoki
 yoqmi aniqlang.
+## Numbers A and B are given. Does this satisfi our condition A<2 and B>=-2  check if you like.
+
 7. A va B sonlari berilgan. Ulardan birinchi katta keyin kichikgini print qiling.
+## Numbers A and B are given. Print the first large one, then the small one.
+
 8. A va B sonlari berilgan (float tipida). Ularning qaysi birida qo’ldiq qismi kichik
 bo’lsa shu sonni aniqlang.
+## Numbers A and B are given(of float type). Which one of them has a small remainder? if so, determine this number. 
 9. A, B va C sonlari berilgan. A < B < C shartimizga to’g’ri keladimi yoki yoqmi
 aniqlang.
 10. A, B va C sonlari berilgan. B soni, A va C ni o’rtasidami yoki yoq aniqlang.

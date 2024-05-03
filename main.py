@@ -48,3 +48,35 @@ elif a<0:
 else:
    print("zero")
 """
+#5 Numbers A and B  are given. Does this satisfi our condition A>3 and B<=6? check if you like.
+"""
+a=int(input("A="))
+b=int(input("B="))
+if a>3 and b<=6:
+    print(True)
+else:
+    print(False)
+"""
+
+#6 Numbers A and B are given. Does this satisfi our condition A<2 and B>=-2  check if you like.
+"""
+a=int(input("A="))
+b=int(input("B="))
+
+if a<2 and b>=-2:
+    print(True)
+else:
+    print(False)
+"""
+#7 Numbers A and B are given. Print the first large one, then the small one.
+"""
+a=int(input("A="))
+b=int(input("B="))
+if a>b:
+    print(f"{a} , {b}")
+else:
+    print(f"{b} , {a}")
+"""
+#8 Numbers A and B are given(of float type).Which one of them has a small remainder? if so, determine this number.
+a=float(input("A="))
+b=float(input("B="))
