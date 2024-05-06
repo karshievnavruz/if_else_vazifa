@@ -27,8 +27,12 @@ bo’lsa shu sonni aniqlang.
 ## Numbers A and B are given(of float type). Which one of them has a small remainder? if so, determine this number. 
 9. A, B va C sonlari berilgan. A < B < C shartimizga to’g’ri keladimi yoki yoqmi
 aniqlang.
+## Numbers A, B and C are given. Whether A < B < C meets our condition define.
 10. A, B va C sonlari berilgan. B soni, A va C ni o’rtasidami yoki yoq aniqlang.
+## Numbers A, B and C are given. Determine whether the number of B is between A and C.
 11. A, B va C sonlari berilgan. Ulardan nechtasi musbat ekanligni aniqlang.
+## Numbers A ,B and C are given.  Find out how many of them are positive.
+
 12. A, B va C sonlari berilgan. Ulardan ikki eng katta sonlarni yig’indisini aniqlang.
 13. A soni berilgan. A ni tub son ekanligni aniqlang.
 14. A va B sonlari berilgan. A va B ni , yani ikkalasi ham tog’ sonlar ekanligini

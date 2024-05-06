@@ -78,5 +78,56 @@ else:
     print(f"{b} , {a}")
 """
 #8 Numbers A and B are given(of float type).Which one of them has a small remainder? if so, determine this number.
+""" 
 a=float(input("A="))
 b=float(input("B="))
+a1=a%1
+b1=b%1
+if a1>b1:
+    print(b)
+if b1>a1:
+    print(a)
+else:
+    print("=")
+"""
+#9 Numbers A, B and C are given. Whether A < B < C meets our condition define.
+"""
+a=int(input("A="))
+b=int(input("B="))
+c=int(input("C="))
+
+if a<b and b<c:
+    print(True)
+else:
+    print(False)
+"""
+#10 Numbers A, B and C are given . Determine whether the number of B is between A and C.
+"""
+a=int(input("A="))
+b=int(input("B="))
+c=int(input("C="))
+
+if a<b and b<c:
+    print(True)
+elif c<b and b<a:
+    print(True)
+else:
+    print(False)
+"""
+
+#11 Numbers A ,B and C are given.  Find out how many of them are positive.
+
+"""
+a=int(input("A="))
+b=int(input("B="))
+c=int(input("C="))
+n=0
+if a>0:
+    n+=1
+if b>0:
+    n+=1
+if c>0:
+    n+=1
+print(n)
+"""
+
