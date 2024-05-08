@@ -130,4 +130,100 @@ if c>0:
     n+=1
 print(n)
 """
+#12 Numbers  A , B and C are given. Determine the sum of the two largest numbers from them.
 
+"""
+a=int(input("A="))
+b=int(input("B="))
+c=int(input("C="))
+
+if a>c and b>c:
+    print(a+b)
+elif b>a and c>b:
+
+    print(b+c)
+elif c>b and a>b:
+    print(c+a)
+else:
+    print("error")
+"""
+#13 Nummber A  is given. Determine if A is a prime number.
+
+"""
+a = int(input("Iltimos, son kiriting: "))
+
+num = a
+if num <= 1:
+    print(num, "tub emas.")
+elif num <= 3:
+    print(num, "tub son.")
+elif num % 2 == 0 or num % 3 == 0:
+    print(num, "tub emas.")
+else:
+    i = 5
+    while i * i <= num:
+        print(i,num)
+        if num % i == 0 or num % (i + 2) == 0:
+            print(num, "tub emas.")
+            break
+        i += 6
+    else:
+        print(num, "tub son.")"""
+"""
+def is_prime(num):
+    if num <= 1:
+        return False
+    if num <= 3:
+        return True
+    if num % 2 == 0 or num % 3 == 0:
+        return False
+    i = 5
+    while i * i <= num:
+        if num % i == 0 or num % (i + 2) == 0:
+            return False
+        i += 6
+    return True
+
+# Sonni o'qib olish
+a = int(input("Iltimos, son kiriting: "))
+
+# Berilgan sonning tub son ekanligini tekshirish
+if is_prime(a):
+    print(a, "tub son.")
+else:
+    print(a, "tub emas.")
+
+"""
+
+#14 Numbers A and B are given.  A and B, i.e. both are prime numbers define
+
+"""
+a=int(input("A="))
+b=int(input("B="))
+
+if a%2==1 and b%2==1:
+    print(True)
+else:
+    print(False)
+"""
+
+#15  Numbers A and B are given. Determine whether A or B is a large number.
+"""
+a=int(input("A="))
+b=int(input("B="))
+
+if a%2==1 or b%2==1:
+    print(True)
+else:
+    print(False)"""
+
+#16 Numbers A , B and C are given.Determine whether A, B, and C are positive. 
+
+a=int(input("A="))
+b=int(input("B="))
+c=int(input("C="))
+
+if a%2==1 or b%2==1:
+    print(True)
+else:
+    print(False)

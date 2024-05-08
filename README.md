@@ -34,11 +34,17 @@ aniqlang.
 ## Numbers A ,B and C are given.  Find out how many of them are positive.
 
 12. A, B va C sonlari berilgan. Ulardan ikki eng katta sonlarni yig’indisini aniqlang.
+## Numbers A, B and C are given. Determine the sum of the two largest numbers from them.
 13. A soni berilgan. A ni tub son ekanligni aniqlang.
+##  Number A is given. Determine if A is a prime number.
 14. A va B sonlari berilgan. A va B ni , yani ikkalasi ham tog’ sonlar ekanligini
 aniqlang
+## Numbers A and B are given.  A and B, i.e. both are prime numbers define
+
 15. A va B sonlari berilgan. A yoki B ni tog’ son ekanligini aniqlang.
+##  Numbers A and B are given. Determine whether A or B is a large number.
 16. A, B va C sonlari berilgan. A, B va C sonlarini musbatmi shuni aniqlang.
+## Numbers A , B and C are given.Determine whether A, B, and C are positive. 
 17. A soni berilgan. Uni juft va 2 xonalik son ekanligni aniqlang.
 18. A soni berilgan. Uni tog’ va 3 xonlik son ekanligini aniqlang.
 19. Uch xonalik son berilgan. Uning raqamlari bir xil emasligni aniglang.
