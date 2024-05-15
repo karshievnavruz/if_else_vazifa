@@ -46,8 +46,12 @@ aniqlang
 16. A, B va C sonlari berilgan. A, B va C sonlarini musbatmi shuni aniqlang.
 ## Numbers A , B and C are given.Determine whether A, B, and C are positive. 
 17. A soni berilgan. Uni juft va 2 xonalik son ekanligni aniqlang.
+## A number is given. Determine whether it is even or a 2-digit number.
 18. A soni berilgan. Uni tog’ va 3 xonlik son ekanligini aniqlang.
+## A number is given. Determine that it is a mountain and a 3-digit number.
+
 19. Uch xonalik son berilgan. Uning raqamlari bir xil emasligni aniglang.
+## A three-digit number is given. Check that its numbers are not the same.
 20. 1-999 ga son berilgan. Uni musbat yoki manfiyligni va nechi xonaligini
 aniqlang.
 21. Uch xonalik son berilgan. Uning raqamlari o’sish yoki kamayish tartibidami

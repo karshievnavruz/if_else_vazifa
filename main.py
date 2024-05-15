@@ -218,12 +218,51 @@ else:
     print(False)"""
 
 #16 Numbers A , B and C are given.Determine whether A, B, and C are positive. 
-
+"""
 a=int(input("A="))
 b=int(input("B="))
 c=int(input("C="))
 
-if a%2==1 or b%2==1:
+if a>0 and b>0 and c>0:
     print(True)
 else:
     print(False)
+"""
+
+#17 A number is given. Determine whether it is even or a 2-digit number.
+"""
+a=int(input("A="))
+
+if a%2==0 and a>=10 and a<100:
+    print(True)
+else:
+    print(False)
+"""
+
+#18 A number is given. Determine that it is a mountain and a 3-digit number.
+"""
+a=int(input("A="))
+
+if a>=100 and a<=999 and a%2==1:
+    print(True)
+else:
+    print(False)
+"""
+
+#19 A three-digit number is given. Check that its numbers are not the same.
+"""
+a=int(input("A="))
+if a>=100 and a<=999:
+
+   a1=a//100
+   a2=(a//10)%10
+   a3=a%10
+   if a1!=a2 and a1!=a3 and a2!=a3:
+      print(True)
+   else:
+      print(False)
+else:
+   print(False)
+
+"""
+ 
